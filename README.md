@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/LVKvjL6.png"/>
+    <img src="img/LVKvjL6.gif"/>
 </p>
 
 <h2 align="center">
@@ -17,19 +17,30 @@
 </p>
 
 ### About Me
+
 Originally from New Zealand, living in Vienna.
 Currently studying @42Vienna
 
 ### Skills
+
 C, UNIX, Git, Markdown.
 
 ### 🌱 Currently working on...
+
 Minishell - basic shell built in C.
 
 ### 💻 Want to learn
+
 Lua, PHP, SQL, Python
 
 ### Links
+
+<a href="https://www.linkedin.com/in/michael-naysmith-839aa1255/">
+    <img src="linked.svg" alt="LinkedIn Profile"/>
+</a>
+
+
+
 
 <!--
 **Schmitzi/schmitzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
