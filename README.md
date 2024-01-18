@@ -4,7 +4,7 @@
     <img src="img/born2beroote.png"/>
     <img src="img/get_next_linee.png"/>
     <img src="img/minitalke.png"/>
-    <img src="img/push_swap.png"/>
+    <img src="img/push_swape.png"/>
     <img src="img/fract-olm.png"/>
     
 </p>
