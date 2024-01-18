@@ -35,9 +35,10 @@ Lua, PHP, SQL, Python
 
 ### Links
 
-<a
-    href="www.linkedin.com/in/michael-naysmith-839aa1255/"> <img src="linked.svg"/>
+<a href="https://www.linkedin.com/in/michael-naysmith-839aa1255/">
+    <img src="linked.svg" alt="LinkedIn Profile"/>
 </a>
+
 
 
 
