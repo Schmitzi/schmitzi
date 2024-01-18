@@ -18,7 +18,7 @@
         href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png" alt="Get_next_line GitHub Repository"/>
     </a>
     <a
-        href="https://github.com/Schmitzi/minitalk"><img src="img/minitalke.png" alt="Minitalk GitHub Repository"/>
+        href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png" alt="Minitalk GitHub Repository"/>
     </a>
     <img src="img/push_swape.png"/>
     <a
