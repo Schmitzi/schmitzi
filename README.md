@@ -7,13 +7,23 @@
 </h2>
 
 <p align="center">
-    <img src="img/libftm.png"/>
-    <img src="img/ft_printfe.png"/>
+    <a
+        href="https://github.com/Schmitzi/libft"><img src="img/libftm.png" alt="Libft GitHub Repository"/>
+    </a>
+    <a
+        href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png" alt="Ft_printf GitHub Repository"/>
+    </a>
     <img src="img/born2beroote.png"/>
-    <img src="img/get_next_linee.png"/>
-    <img src="img/minitalke.png"/>
+    <a
+        href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png" alt="Get_next_line GitHub Repository"/>
+    </a>
+    <a
+        href="https://github.com/Schmitzi/minitalk"><img src="img/minitalke.png" alt="Minitalk GitHub Repository"/>
+    </a>
     <img src="img/push_swape.png"/>
-    <img src="img/fract-olm.png"/>
+    <a
+        href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png" alt="Fract-ol GitHub Repository"/>
+    </a>
 </p>
 
 ### About Me
@@ -36,7 +46,7 @@ Lua, PHP, SQL, Python
 ### Links
 
 <a href="https://www.linkedin.com/in/michael-naysmith-839aa1255/">
-    <img src="linked.svg" alt="LinkedIn Profile"/>
+    <img src="linked.svg"/>
 </a>
 
 
