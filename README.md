@@ -1,12 +1,5 @@
 <p align="center">
-    <img src="img/libftm.png"/>
-    <img src="img/ft_printfe.png"/>
-    <img src="img/born2beroote.png"/>
-    <img src="img/get_next_linee.png"/>
-    <img src="img/minitalke.png"/>
-    <img src="img/push_swape.png"/>
-    <img src="img/fract-olm.png"/>
-    
+    <img src="img/LVKvL6.png"/>
 </p>
 
 <h2 align="center">
@@ -14,7 +7,13 @@
 </h2>
 
 <p align="center">
-
+    <img src="img/libftm.png"/>
+    <img src="img/ft_printfe.png"/>
+    <img src="img/born2beroote.png"/>
+    <img src="img/get_next_linee.png"/>
+    <img src="img/minitalke.png"/>
+    <img src="img/push_swape.png"/>
+    <img src="img/fract-olm.png"/>
 </p>
 
 ### About Me
