@@ -1,5 +1,12 @@
 <p align="center">
-    <img src="img/LVKvjL6.gif"/>
+    <img src="img/libftm.png"/>
+    <img src="img/ft_printfe.png"/>
+    <img src="img/born2beroote.png"/>
+    <img src="img/get_next_linee.png"/>
+    <img src="img/minitalke.png"/>
+    <img src="img/push_swap.png"/>
+    <img src="img/fract-olm.png"/>
+    
 </p>
 
 <h2 align="center">
@@ -7,8 +14,7 @@
 </h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/language-%20C-blue" />
-    <img src="https://img.shields.io/badge/100%2F100-green" />
+
 </p>
 
 ### About Me
