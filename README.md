@@ -1,4 +1,15 @@
-## Hi there, I'm Michael👋
+<p align="center">
+    <img src="img/1.jpg"/>
+</p>
+
+<h2 align="center">
+   Hi there, I'm Michael👋
+</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/language-%20C-blue" />
+    <img src="https://img.shields.io/badge/100%2F100-green" />
+</p>
 
 ### About Me
 Originally from New Zealand, living in Vienna.
