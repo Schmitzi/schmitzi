@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/LVKvjL6.png"/>
+    <img src="img/LVKvjL6.gif"/>
 </p>
 
 <h2 align="center">
