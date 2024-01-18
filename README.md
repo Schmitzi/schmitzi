@@ -26,29 +26,26 @@
     </a>
 </p>
 
-### About Me
+## About Me
 
 Originally from New Zealand, living in Vienna.
 Currently studying @42Vienna
 
-### Skills
+## Skills
 
 C, UNIX, Git, Markdown.
 
-### 🌱 Currently working on...
+## 🌱 Currently working on...
 
 Minishell - basic shell built in C.
 
-### 💻 Want to learn
+## 💻 Want to learn
 
 Lua, PHP, SQL, Python
 
-### Links
+## Links
 
-<a href="https://www.linkedin.com/in/michael-naysmith-839aa1255/">
-    <img src="linked.svg"/>
-</a>
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-naysmith-839aa1255/)
 
 
 
