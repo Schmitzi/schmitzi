@@ -23,7 +23,7 @@ Currently studying @42Vienna
 
 ## 📚 Skills
 <p align="center">
-    <img src="https://github.com/Schmitzi/schmitzi/assets/114487582/2e24c055-980b-48e0-8f0f-c48ac5e44a2f"/>
+    <img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"/>
     <img src="img/unix.svg"/>
     <img src="img/git.svg"/>
     <img src="img/markdown.svg"/>
