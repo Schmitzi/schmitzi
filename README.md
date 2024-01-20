@@ -23,14 +23,14 @@ Currently studying @42Vienna
 
 ## 📚 Skills
 <p align="left">
-    <img src="img/c.svg"/>
-    <img src="img/unix.svg"/>
-    <img src="img/git.svg"/>
-    <img src="img/github.svg"/>
-    <img src="img/markdown.svg"/>
-    <img src="img/linux.svg"/>
-    <img src="img/vim.svg"/>
-    <img src="img/vscode.svg"/>
+    <img src="img/c.svg" height="50"/>
+    <img src="img/unix.svg" height="50"/>
+    <img src="img/git.svg" height="50"/>
+    <img src="img/github.svg" height="50"/>
+    <img src="img/markdown.svg" height="50"/>
+    <img src="img/linux.svg" height="50"/>
+    <img src="img/vim.svg" height="50"/>
+    <img src="img/vscode.svg" height="50"/>
 </p>
 
 ## 🌱 Currently working on...
@@ -41,30 +41,13 @@ Minishell - basic shell built in C.
 
 <p align="left">
     <img src="img/lua.svg" height="50"/>
-    <img src="img/php.svg"/>
-    <img src="img/mysql.svg"/>
-    <img src="img/python.svg"/>
-    <img src="img/javascript.svg"/>
-    <img src="img/docker.svg"/>
+    <img src="img/php.svg" height="50"/>
+    <img src="img/mysql.svg" height="50"/>
+    <img src="img/python.svg" height="50"/>
+    <img src="img/javascript.svg" height="50"/>
+    <img src="img/docker.svg" height="50"/>
 </p>
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-naysmith-839aa1255/)
-
-
-
-<!--
-**Schmitzi/schmitzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
