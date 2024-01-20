@@ -35,7 +35,7 @@ Minishell - basic shell built in C.
 
 ## 💻 Want to learn
 
-<p align="center">
+<p align="left">
     <img src="img/lua.svg"/>
     <img src="img/php.svg"/>
     <img src="img/sql.svg"/>
