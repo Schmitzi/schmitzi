@@ -50,4 +50,4 @@ Minishell - basic shell built in C.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-naysmith-839aa1255/)
+<a href="https://www.linkedin.com/in/michael-naysmith-839aa1255"><img = src"img/linked.svg"/> </a>
