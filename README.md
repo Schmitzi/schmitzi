@@ -40,7 +40,7 @@ Minishell - basic shell built in C.
 ## 💻 Want to learn
 
 <p align="left">
-    <img src="img/lua.svg"/>
+    <img src="img/lua.svg" height="50"/>
     <img src="img/php.svg"/>
     <img src="img/mysql.svg"/>
     <img src="img/python.svg"/>
