@@ -51,5 +51,5 @@ Minishell - basic shell built in C.
 ## 🔗 Links
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/michael-naysmith-839aa1255"><img = src"img/linked.svg"/> </a>
+    <a href="https://www.linkedin.com/in/michael-naysmith-839aa1255"><img src="img/linked.svg"/> </a>
 </p>
