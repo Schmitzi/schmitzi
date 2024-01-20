@@ -22,11 +22,12 @@ Originally from New Zealand, living in Vienna.
 Currently studying @42Vienna
 
 ## 📚 Skills
-
-<img src="img/c.svg"/>
-<img src="img/unix.svg"/>
-<img src="img/git.svg"/>
-<img src="img/markdown.svg"/>
+<p align="center">
+    <img src="img/c.svg"/>
+    <img src="img/unix.svg"/>
+    <img src="img/git.svg"/>
+    <img src="img/markdown.svg"/>
+</p>
 
 ## 🌱 Currently working on...
 
@@ -34,12 +35,14 @@ Minishell - basic shell built in C.
 
 ## 💻 Want to learn
 
-<img src="img/lua.svg"/>
-<img src="img/php.svg"/>
-<img src="img/sql.svg"/>
-<img src="img/python.svg"/>
-<img src="img/javascript.svg"/>
-<img src="img/asm.svg"/>
+<p align="center">
+    <img src="img/lua.svg"/>
+    <img src="img/php.svg"/>
+    <img src="img/sql.svg"/>
+    <img src="img/python.svg"/>
+    <img src="img/javascript.svg"/>
+    <img src="img/asm.svg"/>
+</p>
 
 ## 🔗 Links
 
