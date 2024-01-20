@@ -38,7 +38,7 @@ Minishell - basic shell built in C.
 <p align="left">
     <img src="img/lua.svg"/>
     <img src="img/php.svg"/>
-    <img src="img/sql.svg"/>
+    <img src="img/mysql.svg"/>
     <img src="img/python.svg"/>
     <img src="img/javascript.svg"/>
     <img src="img/asm.svg"/>
