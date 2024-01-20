@@ -23,15 +23,10 @@ Currently studying @42Vienna
 
 ## 📚 Skills
 
-C, UNIX, Git, Markdown.
-<p align="center">
-    <img src="img/lua.svg"/>
-    <img src="img/php.svg"/>
-    <img src="img/sql.svg"/>
-    <img src="img/python.svg"/>
-    <img src="img/javascript.svg"/>
-    <img src="img/asm.svg"/>
-</p>
+<img src="img/c.svg"/>
+<img src="img/unix.svg"/>
+<img src="img/git.svg"/>
+<img src="img/markdown.svg"/>
 
 ## 🌱 Currently working on...
 
@@ -39,7 +34,12 @@ Minishell - basic shell built in C.
 
 ## 💻 Want to learn
 
-Lua, PHP, SQL, Python
+<img src="img/lua.svg"/>
+<img src="img/php.svg"/>
+<img src="img/sql.svg"/>
+<img src="img/python.svg"/>
+<img src="img/javascript.svg"/>
+<img src="img/asm.svg"/>
 
 ## 🔗 Links
 
