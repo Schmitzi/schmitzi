@@ -6,7 +6,7 @@
    Hi there, I'm Michael👋
 </h1>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png" alt="Libft GitHub Repository"/> </a>
     <a href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png" alt="Ft_printf GitHub Repository"/> </a>
     <a href="https://github.com/Schmitzi/born2beroot"><img src="img/born2beroote.png"/> </a>
