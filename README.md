@@ -7,13 +7,13 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png" alt="Libft GitHub Repository"/> </a>
-    <a href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png" alt="Ft_printf GitHub Repository"/> </a>
+    <a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png"/> </a>
+    <a href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png"/> </a>
     <a href="https://github.com/Schmitzi/born2beroot"><img src="img/born2beroote.png"/> </a>
-    <a href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png" alt="Get_next_line GitHub Repository"/> </a>
-    <a href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png" alt="Minitalk GitHub Repository"/> </a>
+    <a href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png"/> </a>
+    <a href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png"/> </a>
     <a href="https://github.com/Schmitzi/push_swap"><img src="img/push_swape.png"/> </a>
-    <a href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png" alt="Fract-ol GitHub Repository"/> </a>
+    <a href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png"/> </a>
 </p>
 
 ## 🧑‍💻 About Me
