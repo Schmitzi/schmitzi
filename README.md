@@ -1,9 +1,10 @@
 <p align="center">
     <img src="img/LVKvjL6.gif"/>
+
 </p>
 
 <h1 align="center">
-   Hi there, I'm Michael👋
+   Hello World, I'm Michael 👋
 </h1>
 
 <p align="center">
