@@ -35,7 +35,8 @@ Currently studying @42Vienna
 
 ## 🌱 Currently working on...
 
-Minishell - basic shell built in C.
+Minishell - Simple shell built in C.
+Philosophers - Solution to the Philosophers problem using mutex
 
 ## 💻 Want to learn
 
