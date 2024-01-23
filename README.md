@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-   Hi there, I'm Michael👋
+   Hi there, I'm Michael 👋
 </h1>
 
 <p align="center">
