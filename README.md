@@ -40,6 +40,8 @@ Currently studying @42Vienna
 
 <b>Philosophers</b> - Solution to the Philosophers problem using mutex
 
+Learning Python
+
 ## 💻 Want to learn
 
 <p align="left">
