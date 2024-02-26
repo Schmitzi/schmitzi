@@ -46,7 +46,6 @@ Learning Python
 
 <p align="left">
     <img src="img/lua.svg" height="50"/>
-    <img src="img/php.svg" height="50"/>
     <img src="img/mysql.svg" height="50"/>
     <img src="img/python.svg" height="50"/>
     <img src="img/javascript.svg" height="50"/>
