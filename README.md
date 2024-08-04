@@ -15,7 +15,7 @@
     <a href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png"/> </a>
     <a href="https://github.com/Schmitzi/push_swap"><img src="img/push_swape.png"/> </a>
     <a href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png"/> </a>
-    <a href="https://github.com/Schmitzi/minishell"><img src="img/minishell.png"/> </a>
+    <a href="https://github.com/Schmitzi/minishell"><img src="img/minishellm.png"/> </a>
 </p>
 
 ## 🧑‍💻 About Me
