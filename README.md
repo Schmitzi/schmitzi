@@ -37,11 +37,10 @@ Currently studying @42Vienna
 
 ## 🌱 Currently working on...
 
-<b>Minishell</b> - Simple shell built in C.
-
+<b>Cub3D</b> - Build a clone of Wolfenstein/Doom with raycasting.
 <b>Philosophers</b> - Solution to the Philosophers problem using mutex
 
-Learning Python
+Learning C++ 
 
 ## 💻 Want to learn
 
@@ -57,4 +56,5 @@ Learning Python
 
 <p align="left">
     <a href="https://www.linkedin.com/in/michael-naysmith-839aa1255"><img src="img/linked.svg" height="50"/> </a>
+    <a href="https://www.schmitzi.nz"><img src="img/1.jpeg" height="50"/> </a>
 </p>
