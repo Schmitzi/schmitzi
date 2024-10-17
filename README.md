@@ -39,7 +39,6 @@ Currently studying @42Vienna
 ## 🌱 Currently working on...
 
 <b>Cub3D</b> - Build a clone of Wolfenstein/Doom with raycasting.
-<b>Philosophers</b> - Solution to the Philosophers problem using mutex
 
 Learning C++ 
 
