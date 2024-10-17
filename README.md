@@ -17,6 +17,7 @@
     <a href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png"/> </a>
     <a href="https://github.com/Schmitzi/minishell"><img src="img/minishelle.png"/> </a>
     <a href="https://github.com/Schmitzi/philosophers"><img src="img/philosopherse.png"/> </a>
+    <a href="https://github.com/Schmitzi/cub3D"><img src="img/cub3dm.png"/> </a>
 </p>
 
 ## 🧑‍💻 About Me
