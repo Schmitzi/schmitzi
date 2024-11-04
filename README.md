@@ -40,8 +40,6 @@ Currently studying @42Vienna
 
 ## 🌱 Currently working on...
 
-<b>Cub3D</b> - Build a clone of Wolfenstein/Doom with raycasting.
-
 Learning C++ 
 
 ## 💻 Want to learn
