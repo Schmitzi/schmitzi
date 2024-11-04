@@ -18,6 +18,7 @@
     <a href="https://github.com/Schmitzi/minishell"><img src="img/minishelle.png"/> </a>
     <a href="https://github.com/Schmitzi/philosophers"><img src="img/philosopherse.png"/> </a>
     <a href="https://github.com/Schmitzi/cub3D"><img src="img/cub3dm.png"/> </a>
+    <a href="https://github.com/Schmitzi/cpp_modules"><img src="img/cppe.png"/> </a>
 </p>
 
 ## 🧑‍💻 About Me
