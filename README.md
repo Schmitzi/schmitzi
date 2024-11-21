@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png"/> </a>
     <a href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png"/> </a>
-    <a href="https://github.com/Schmitzi/born2beroot"><img src="img/born2beroote.png"/> </a>
+    <a><img src="img/born2beroote.png"/> </a>
     <a href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png"/> </a>
     <a href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png"/> </a>
     <a href="https://github.com/Schmitzi/push_swap"><img src="img/push_swape.png"/> </a>
