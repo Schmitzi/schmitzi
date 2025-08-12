@@ -19,7 +19,7 @@
     <a href="https://github.com/Schmitzi/philosophers"><img src="img/philosopherse.png"/> </a>
     <a href="https://github.com/Schmitzi/cub3D"><img src="img/cub3dm.png"/> </a>
     <a href="https://github.com/Schmitzi/cpp_modules"><img src="img/cppe.png"/> </a>
-    <a href="https://github.com/Schmitzi/wevserv"><img src="img/webservm.png"/> </a>
+    <a href="https://github.com/Schmitzi/webserv"><img src="img/webservm.png"/> </a>
 </p>
 
 ## 🧑‍💻 About Me
