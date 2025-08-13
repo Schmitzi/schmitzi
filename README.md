@@ -37,11 +37,14 @@ Currently studying @42Vienna
     <img src="img/linux.svg" height="50"/>
     <img src="img/vim.svg" height="50"/>
     <img src="img/vscode.svg" height="50"/>
+    <img src="img/docker.svg" height="50"/>
 </p>
 
 ## 🌱 Currently working on...
 
-Learning C++ 
+Learning Docker for Inception - a multi container solution with Nginx, MariaDB and WordPress 
+
+Learning Typescript for transcendence - Long in the browser with server side rendering, authentication, blockchain and more. Stay tuned
 
 ## 💻 Want to learn
 
@@ -50,7 +53,6 @@ Learning C++
     <img src="img/mysql.svg" height="50"/>
     <img src="img/python.svg" height="50"/>
     <img src="img/javascript.svg" height="50"/>
-    <img src="img/docker.svg" height="50"/>
 </p>
 
 ## 🔗 Links
