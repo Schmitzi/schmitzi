@@ -7,22 +7,6 @@
    Hello World, I'm Michael👋
 </h1>
 
-<p align="center">
-    <a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png"/> </a>
-    <a href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png"/> </a>
-    <a><img src="img/born2beroote.png"/> </a>
-    <a href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png"/> </a>
-    <a href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png"/> </a>
-    <a href="https://github.com/Schmitzi/push_swap"><img src="img/push_swape.png"/> </a>
-    <a href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png"/> </a>
-    <a href="https://github.com/Schmitzi/minishell"><img src="img/minishelle.png"/> </a>
-    <a href="https://github.com/Schmitzi/philosophers"><img src="img/philosopherse.png"/> </a>
-    <a href="https://github.com/Schmitzi/cub3D"><img src="img/cub3dm.png"/> </a>
-    <a href="https://github.com/Schmitzi/cpp_modules"><img src="img/cppe.png"/> </a>
-    <a href="https://github.com/Schmitzi/webserv"><img src="img/webservm.png"/> </a>
-    <a href="https://github.com/Schmitzi/inception"><img src="img/inceptione.png"/> </a>
-</p>
-
 ## 🧑‍💻 About Me
 
 Originally from New Zealand, living in Vienna.
@@ -43,9 +27,7 @@ Currently studying @42Vienna
 
 ## 🌱 Currently working on...
 
-Learning Docker for Inception - a multi container solution with Nginx, MariaDB and WordPress 
-
-Learning Typescript for transcendence - Long in the browser with server side rendering, authentication, blockchain and more. Stay tuned
+Learning Typescript for transcendence - Long in the browser with server side pong, authentication, blockchain and more. Stay tuned
 
 ## 💻 Want to learn
 
@@ -54,6 +36,24 @@ Learning Typescript for transcendence - Long in the browser with server side ren
     <img src="img/mysql.svg" height="50"/>
     <img src="img/python.svg" height="50"/>
     <img src="img/javascript.svg" height="50"/>
+</p>
+
+## 42 Vienna Trophy Case
+
+<p align="center">
+    <a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png"/> </a>
+    <a href="https://github.com/Schmitzi/ft_printf"><img src="img/ft_printfe.png"/> </a>
+    <a><img src="img/born2beroote.png"/> </a>
+    <a href="https://github.com/Schmitzi/get_next_line"><img src="img/get_next_linee.png"/> </a>
+    <a href="https://github.com/Schmitzi/minitalk"><img src="img/minitalkm.png"/> </a>
+    <a href="https://github.com/Schmitzi/push_swap"><img src="img/push_swape.png"/> </a>
+    <a href="https://github.com/Schmitzi/fract-ol"><img src="img/fract-olm.png"/> </a>
+    <a href="https://github.com/Schmitzi/minishell"><img src="img/minishelle.png"/> </a>
+    <a href="https://github.com/Schmitzi/philosophers"><img src="img/philosopherse.png"/> </a>
+    <a href="https://github.com/Schmitzi/cub3D"><img src="img/cub3dm.png"/> </a>
+    <a href="https://github.com/Schmitzi/cpp_modules"><img src="img/cppe.png"/> </a>
+    <a href="https://github.com/Schmitzi/webserv"><img src="img/webservm.png"/> </a>
+    <a href="https://github.com/Schmitzi/inception"><img src="img/inceptione.png"/> </a>
 </p>
 
 ## 🔗 Links
