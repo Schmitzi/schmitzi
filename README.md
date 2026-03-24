@@ -31,7 +31,9 @@ Master Student @42Vienna
 ## 🌱 Currently working on...
 
 libasm - base C functions rebuilt in Intel x86 assembly
+
 ft_linux - Building a linux distro on the Linux Kernel
+
 kfs - Building a *Kernel From Scratch* in Rust
 
 ## 42 Vienna Trophy Case
