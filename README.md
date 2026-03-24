@@ -50,7 +50,7 @@ kfs - Building a *Kernel From Scratch* in Rust
     <a href="https://github.com/Schmitzi/cpp_modules"><img src="img/cppe.png"/> </a>
     <a href="https://github.com/Schmitzi/inception"><img src="img/inceptione.png"/> </a>
     <a href="https://github.com/Schmitzi/webserv"><img src="img/webservm.png"/> </a>
-    <a href="https://github.com/Schmitzi/ft_transcendence"><img src="img/ft_transcendencem.png"/> </a>
+    <a href="https://github.com/TeamSeahorse42/ft_transcendence"><img src="img/ft_transcendencem"/> </a>
 </p>
 
 ## 🔗 Links
