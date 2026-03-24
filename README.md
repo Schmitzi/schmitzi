@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 Originally from New Zealand, living in Vienna.
-Currently studying @42Vienna
+Master Student @42Vienna
 
 ## 📚 Skills
 <p align="left">
@@ -23,20 +23,16 @@ Currently studying @42Vienna
     <img src="img/vim.svg" height="50"/>
     <img src="img/vscode.svg" height="50"/>
     <img src="img/docker.svg" height="50"/>
-</p>
-
-## 🌱 Currently working on...
-
-Learning Typescript for transcendence - Long in the browser with server side pong, authentication, blockchain and more. Stay tuned
-
-## 💻 Want to learn
-
-<p align="left">
-    <img src="img/lua.svg" height="50"/>
     <img src="img/mysql.svg" height="50"/>
     <img src="img/python.svg" height="50"/>
     <img src="img/javascript.svg" height="50"/>
 </p>
+
+## 🌱 Currently working on...
+
+libasm - base C functions rebuilt in Intel x86 assembly
+ft_linux - Building a linux distro on the Linux Kernel
+kfs - Building a *Kernel From Scratch* in Rust
 
 ## 42 Vienna Trophy Case
 
@@ -52,8 +48,9 @@ Learning Typescript for transcendence - Long in the browser with server side pon
     <a href="https://github.com/Schmitzi/philosophers"><img src="img/philosopherse.png"/> </a>
     <a href="https://github.com/Schmitzi/cub3D"><img src="img/cub3dm.png"/> </a>
     <a href="https://github.com/Schmitzi/cpp_modules"><img src="img/cppe.png"/> </a>
-    <a href="https://github.com/Schmitzi/webserv"><img src="img/webservm.png"/> </a>
     <a href="https://github.com/Schmitzi/inception"><img src="img/inceptione.png"/> </a>
+    <a href="https://github.com/Schmitzi/webserv"><img src="img/webservm.png"/> </a>
+    <a href="https://github.com/Schmitzi/ft_transcendence"><img src="img/ft_transcendencem.png"/> </a>
 </p>
 
 ## 🔗 Links
